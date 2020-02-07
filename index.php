@@ -17,5 +17,9 @@
     <h2>AWS TEST PAGE - CODEPIPELINE</h2>
     
     <h3>Hello world</h3>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat rerum laboriosam nihil in corrupti nostrum ullam, vel ad aperiam, ducimus aliquid nemo id distinctio blanditiis optio, incidunt consequuntur laborum illo?</p>
+
+    
 </body>
 </html>
